@@ -15,6 +15,7 @@
             <v-radio :value="0" label="高速" />
             <v-radio :value="100" label="中速" />
             <v-radio :value="500" label="低速" />
+            <v-radio :value="1000" label="超低速" />
           </v-radio-group>
         </v-card-actions>
       </v-card>
