@@ -4,6 +4,9 @@ import pkg from './package'
 export default {
   mode: 'spa',
 
+  router: {
+    base: '/uuid-conflict-simulator/'
+  },
   /*
    ** Headers of the page
    */
